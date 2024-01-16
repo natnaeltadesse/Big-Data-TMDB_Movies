@@ -74,22 +74,32 @@ Powerful visuals provide intuitive insights into the data. Key analyses include:
 
 - Annual analysis of:
   - Highest budget vs. profit
-  - Total budget over years 
+  - Total budget over years
+    ![4](https://github.com/SomeonePro72/Big-Data-TMDB_Movies/assets/83784402/cd16bbfd-b005-4def-a677-d1b848c1a620)
   - Top grossing films
 
 #### Genre Dynamics
 
 - Prevalence of genres from 1960 - 2015
+  ![7](https://github.com/SomeonePro72/Big-Data-TMDB_Movies/assets/83784402/e35fe16f-3462-40fb-a262-3648e0498aec)
 
 #### Prominent Personalities
 
 - Most featured cast members
-- Most prolific directors
-- Production companies involved 
+  ![6](https://github.com/SomeonePro72/Big-Data-TMDB_Movies/assets/83784402/212ec58c-75fa-4251-928b-efdb9bc2da2e)
 
+- Most prolific directors
+  ![0](https://github.com/SomeonePro72/Big-Data-TMDB_Movies/assets/83784402/4a53effe-628d-4e97-8886-0533e7981730)
+
+- Production companies involved
+  ![9](https://github.com/SomeonePro72/Big-Data-TMDB_Movies/assets/83784402/052d8084-c7f7-43f8-b50f-f80b864205b5)
+
+  
 #### Feature Correlations 
 
 - Heatmaps relating all features
+  ![10](https://github.com/SomeonePro72/Big-Data-TMDB_Movies/assets/83784402/42c27ebd-bfd5-4e1c-81a6-f7d680c9f9cb)
+  
 - Strongest correlations
 
 ## Key Findings and Insights 1960 to 2015
