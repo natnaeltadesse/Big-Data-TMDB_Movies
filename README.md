@@ -8,7 +8,7 @@ background-image: linear-gradient(221deg, #011123 50%, #141506 69%);
 
 ## Overview
 
-This project conducts an in-depth analysis of the extensively-used TMDb movie dataset, containing over 10,000 movies spanning decades of cinema history. Through meticulous data exploration and insightful visualization, key trends and relationships are uncovered to reveal the factors contributing to a film's success.
+This comprehensive project embarks on a thorough analysis of two diverse datasets, providing a holistic view of the cinematic landscape. The primary dataset, sourced from The Movie Database (TMDb), spans from 1960 to 2015, offering insights into over 10,000 movies and their various attributes, such as budget, revenue, cast, crew, and genres. Alongside this historical dataset, I integrate a second source, a web-scraped dataset of 2023 movies from Movie Table.
 
 **Core Objectives:**
 
