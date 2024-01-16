@@ -41,7 +41,7 @@ This project conducts an in-depth analysis of the extensively-used TMDb movie da
 - [Conclusions](#conclusions)
 
 ## Data Overview
-
+**Data 1**
 - **Source:** [The Movie Database](https://www.kaggle.com/datasets/juzershakir/tmdb-movies-dataset) (TMDb)
 - **Timespan:** 1960 - 2015
 - **Rows:** 10,866
@@ -51,6 +51,17 @@ This project conducts an in-depth analysis of the extensively-used TMDb movie da
   - Release date
   - Genres
   - Popularity
+
+**Data 2**
+- **Source:** [Movie Table](https://www.the-numbers.com/market/2023/top-grossing-movies)
+- **Timespan:** 2023
+- **Rows:** 581
+- **Columns:** 7 features including:
+  - rank
+  - Movie
+  - Release date
+  - Genres
+  - 2023 Gross
   
 ## Exploratory Data Analysis
 
